@@ -1,7 +1,3 @@
-Here is the translation of your task into English, formatted in Markdown:
-
----
-
 # Array List Practice
 
 In this practice, you are expected to create a list of TV Series and define the objects within it. The elements should be created through the Console screen.
